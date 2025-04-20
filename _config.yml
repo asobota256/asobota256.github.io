@@ -1,0 +1,13 @@
+# Site-wide settings
+title: Site title
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima-specific settings
+minima:
+  skin: dark
+  hide_site_feed_link: true
