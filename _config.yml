@@ -9,5 +9,7 @@ plugins:
 
 # Minima-specific settings
 minima:
-  skin: dark
+  skin: auto
+  nav_pages:
+    - index.md
   hide_site_feed_link: true
