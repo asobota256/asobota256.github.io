@@ -12,4 +12,4 @@ title: Manual transmission clutch pipings
   }
 </style>
 
-{% include 4145.svg %}
+{% include manual-transmission-clutch-pipings.svg %}

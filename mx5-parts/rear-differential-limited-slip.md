@@ -12,4 +12,4 @@ title: Rear differential (limited slip)
   }
 </style>
 
-{% include 2710A.svg %}
+{% include rear-differential-limited-slip.svg %}

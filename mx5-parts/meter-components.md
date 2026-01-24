@@ -12,4 +12,4 @@ title: Meter components
   }
 </style>
 
-{% include 5540.svg %}
+{% include meter-components.svg %}

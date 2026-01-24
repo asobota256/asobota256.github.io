@@ -12,4 +12,4 @@ title: Manual transmission case
   }
 </style>
 
-{% include 1700.svg %}
+{% include manual-transmission-case.svg %}

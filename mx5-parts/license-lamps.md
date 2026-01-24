@@ -12,4 +12,4 @@ title: License lamps
   }
 </style>
 
-{% include 5120.svg %}
+{% include license-lamps.svg %}

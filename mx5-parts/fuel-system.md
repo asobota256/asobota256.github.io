@@ -12,4 +12,4 @@ title: Fuel system
   }
 </style>
 
-{% include 1320.svg %}
+{% include fuel-system.svg %}

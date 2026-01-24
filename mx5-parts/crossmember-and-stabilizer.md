@@ -12,4 +12,4 @@ title: Crossmember and stabilizer
   }
 </style>
 
-{% include 3410.svg %}
+{% include crossmember-and-stabilizer.svg %}

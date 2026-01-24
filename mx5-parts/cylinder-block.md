@@ -12,4 +12,4 @@ title: Cylinder block
   }
 </style>
 
-{% include 1030.svg %}
+{% include cylinder-block.svg %}

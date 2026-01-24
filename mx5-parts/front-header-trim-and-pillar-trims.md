@@ -12,4 +12,4 @@ title: Front header trim and pillar trims
   }
 </style>
 
-{% include 6820.svg %}
+{% include front-header-trim-and-pillar-trims.svg %}

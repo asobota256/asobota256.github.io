@@ -12,4 +12,4 @@ title: Door switch and horns
   }
 </style>
 
-{% include 6635.svg %}
+{% include door-switch-and-horns.svg %}

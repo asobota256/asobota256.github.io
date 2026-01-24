@@ -12,4 +12,4 @@ title: Caution plates and labels
   }
 </style>
 
-{% include 6930.svg %}
+{% include caution-plates-and-labels.svg %}

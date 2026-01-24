@@ -12,4 +12,4 @@ title: Window moulding and cowl grilles
   }
 </style>
 
-{% include 5030.svg %}
+{% include window-moulding-and-cowl-grilles.svg %}

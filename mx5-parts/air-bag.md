@@ -12,4 +12,4 @@ title: Air bag
   }
 </style>
 
-{% include 5795.svg %}
+{% include air-bag.svg %}

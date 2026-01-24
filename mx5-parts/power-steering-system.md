@@ -12,4 +12,4 @@ title: Power steering system
   }
 </style>
 
-{% include 3240.svg %}
+{% include power-steering-system.svg %}

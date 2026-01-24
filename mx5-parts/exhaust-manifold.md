@@ -12,4 +12,4 @@ title: Exhaust manifold
   }
 </style>
 
-{% include 1310.svg %}
+{% include exhaust-manifold.svg %}

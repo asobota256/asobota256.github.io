@@ -12,4 +12,4 @@ title: Ornaments
   }
 </style>
 
-{% include 5170.svg %}
+{% include ornaments.svg %}

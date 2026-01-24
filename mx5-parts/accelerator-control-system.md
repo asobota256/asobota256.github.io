@@ -12,4 +12,4 @@ title: Accelerator control system
   }
 </style>
 
-{% include 4160.svg %}
+{% include accelerator-control-system.svg %}

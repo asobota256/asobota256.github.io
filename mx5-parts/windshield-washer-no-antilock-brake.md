@@ -12,4 +12,4 @@ title: Windshield washer (no antilock brake)
   }
 </style>
 
-{% include 6720.svg %}
+{% include windshield-washer-no-antilock-brake.svg %}

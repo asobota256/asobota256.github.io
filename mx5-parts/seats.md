@@ -12,5 +12,6 @@ title: Seats
   }
 </style>
 
-{% include 5700-1.svg %}
-{% include 5700-2.svg %}
+{% include seat-right.svg %}
+
+{% include seat-left.svg %}

@@ -12,4 +12,4 @@ title: Manual transmission change control system
   }
 </style>
 
-{% include 1720.svg %}
+{% include manual-transmission-change-control-system.svg %}

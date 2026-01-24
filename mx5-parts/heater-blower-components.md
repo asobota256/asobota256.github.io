@@ -12,4 +12,4 @@ title: Heater blower components
   }
 </style>
 
-{% include 6120.svg %}
+{% include heater-blower-components.svg %}

@@ -12,4 +12,4 @@ title: Engine electrical system
   }
 </style>
 
-{% include 1800.svg %}
+{% include engine-electrical-system.svg %}

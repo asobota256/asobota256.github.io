@@ -12,4 +12,4 @@ title: Ventilator
   }
 </style>
 
-{% include 5580.svg %}
+{% include ventilator.svg %}

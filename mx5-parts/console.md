@@ -12,4 +12,4 @@ title: Console
   }
 </style>
 
-{% include 5570.svg %}
+{% include console.svg %}

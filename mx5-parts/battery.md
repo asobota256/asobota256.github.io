@@ -12,4 +12,4 @@ title: Battery
   }
 </style>
 
-{% include 1850.svg %}
+{% include battery.svg %}

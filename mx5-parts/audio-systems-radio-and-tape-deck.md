@@ -12,4 +12,4 @@ title: Audio systems (radio and tape deck)
   }
 </style>
 
-{% include 6680.svg %}
+{% include audio-systems-radio-and-tape-deck.svg %}

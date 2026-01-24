@@ -12,4 +12,4 @@ title: Front suspension mechanisms
   }
 </style>
 
-{% include 3400.svg %}
+{% include front-suspension-mechanisms.svg %}

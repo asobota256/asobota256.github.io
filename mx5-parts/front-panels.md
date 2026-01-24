@@ -12,4 +12,4 @@ title: Front panels
   }
 </style>
 
-{% include 5310.svg %}
+{% include front-panels.svg %}

@@ -12,4 +12,4 @@ title: Tires and jack
   }
 </style>
 
-{% include 3700.svg %}
+{% include tires-and-jack.svg %}

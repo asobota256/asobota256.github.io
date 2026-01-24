@@ -12,4 +12,4 @@ title: Service tools
   }
 </style>
 
-{% include 6870.svg %}
+{% include service-tools.svg %}

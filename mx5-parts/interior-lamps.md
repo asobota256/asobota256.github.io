@@ -12,4 +12,4 @@ title: Interior lamps
   }
 </style>
 
-{% include 5125.svg %}
+{% include interior-lamps.svg %}

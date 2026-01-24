@@ -12,4 +12,4 @@ title: Rear suspension mechanisms
   }
 </style>
 
-{% include 2800.svg %}
+{% include rear-suspension-mechanisms.svg %}

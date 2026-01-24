@@ -12,4 +12,4 @@ title: Speedometer cable
   }
 </style>
 
-{% include 5530.svg %}
+{% include speedometer-cable.svg %}

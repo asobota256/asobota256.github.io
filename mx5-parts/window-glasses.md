@@ -12,4 +12,4 @@ title: Window glasses
   }
 </style>
 
-{% include 6300.svg %}
+{% include window-glasses.svg %}

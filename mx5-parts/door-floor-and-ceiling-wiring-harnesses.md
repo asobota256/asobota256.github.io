@@ -12,4 +12,4 @@ title: Door, floor and ceiling wiring harnesses
   }
 </style>
 
-{% include 6703.svg %}
+{% include door-floor-and-ceiling-wiring-harnesses.svg %}

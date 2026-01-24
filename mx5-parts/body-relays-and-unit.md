@@ -12,4 +12,4 @@ title: Body relays and unit
   }
 </style>
 
-{% include 6630.svg %}
+{% include body-relays-and-unit.svg %}

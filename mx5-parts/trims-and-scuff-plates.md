@@ -12,4 +12,4 @@ title: Trims and scuff plates
   }
 </style>
 
-{% include 6840.svg %}
+{% include trims-and-scuff-plates.svg %}

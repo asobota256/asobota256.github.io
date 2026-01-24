@@ -12,4 +12,4 @@ title: Dashboard and related parts
   }
 </style>
 
-{% include 5560.svg %}
+{% include dashboard-and-related-parts.svg %}

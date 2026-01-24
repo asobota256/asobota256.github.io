@@ -12,4 +12,4 @@ title: Bonnet
   }
 </style>
 
-{% include 5230.svg %}
+{% include bonnet.svg %}

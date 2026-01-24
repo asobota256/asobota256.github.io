@@ -12,4 +12,4 @@ title: Air cleaner
   }
 </style>
 
-{% include 1330.svg %}
+{% include air-cleaner.svg %}

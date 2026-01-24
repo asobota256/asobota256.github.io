@@ -12,4 +12,4 @@ title: Windshield wipers
   }
 </style>
 
-{% include 6730.svg %}
+{% include windshield-wipers.svg %}

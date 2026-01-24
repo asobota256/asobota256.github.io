@@ -12,4 +12,4 @@ title: Fuel tank
   }
 </style>
 
-{% include 4200.svg %}
+{% include fuel-tank.svg %}

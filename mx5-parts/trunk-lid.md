@@ -12,4 +12,4 @@ title: Trunk lid
   }
 </style>
 
-{% include 5260.svg %}
+{% include trunk-lid.svg %}

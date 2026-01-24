@@ -12,4 +12,4 @@ title: Engine and transmission mountings
   }
 </style>
 
-{% include 3900.svg %}
+{% include engine-and-transmission-mountings.svg %}

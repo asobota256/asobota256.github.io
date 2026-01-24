@@ -12,4 +12,4 @@ title: Front axle (no antilock brake)
   }
 </style>
 
-{% include 3300.svg %}
+{% include front-axle-no-antilock-brake.svg %}

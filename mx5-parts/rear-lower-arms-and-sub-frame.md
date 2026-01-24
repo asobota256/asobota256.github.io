@@ -12,4 +12,4 @@ title: Rear lower arms and sub frame
   }
 </style>
 
-{% include 2830.svg %}
+{% include rear-lower-arms-and-sub-frame.svg %}

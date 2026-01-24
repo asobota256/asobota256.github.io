@@ -12,4 +12,4 @@ title: Rear finisher
   }
 </style>
 
-{% include 5180.svg %}
+{% include rear-finisher.svg %}

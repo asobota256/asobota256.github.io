@@ -12,5 +12,6 @@ title: Head lamp cleaner
   }
 </style>
 
-{% include 5020-1.svg %}
-{% include 5020-2.svg %}
+{% include head-lamp-cleaner-no-antilock-brake.svg %}
+
+{% include head-lamp-cleaner-antilock-brake.svg %}

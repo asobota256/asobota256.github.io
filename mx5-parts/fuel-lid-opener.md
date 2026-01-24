@@ -12,4 +12,4 @@ title: Fuel lid opener
   }
 </style>
 
-{% include 4210.svg %}
+{% include fuel-lid-opener.svg %}

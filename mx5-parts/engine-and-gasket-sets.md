@@ -12,4 +12,4 @@ title: Engine and gasket sets
   }
 </style>
 
-{% include 1000.svg %}
+{% include engine-and-gasket-sets.svg %}

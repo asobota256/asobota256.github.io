@@ -12,4 +12,4 @@ title: Valve system
   }
 </style>
 
-{% include 1200.svg %}
+{% include valve-system.svg %}

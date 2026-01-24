@@ -12,4 +12,4 @@ title: Dash and cowl panels
   }
 </style>
 
-{% include 5330.svg %}
+{% include dash-and-cowl-panels.svg %}

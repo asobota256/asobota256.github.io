@@ -12,4 +12,4 @@ title: Clutch disc and cover
   }
 </style>
 
-{% include 1600.svg %}
+{% include clutch-disc-and-cover.svg %}

@@ -12,5 +12,6 @@ title: Sunroof
   }
 </style>
 
-{% include 6330-1.svg %}
-{% include 6330-2.svg %}
+{% include sunroof-soft-top.svg %}
+
+{% include sunroof-hard-top.svg %}

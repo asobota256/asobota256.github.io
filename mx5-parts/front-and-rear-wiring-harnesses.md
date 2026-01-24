@@ -12,4 +12,4 @@ title: Front and rear wiring harnesses
   }
 </style>
 
-{% include 6700.svg %}
+{% include front-and-rear-wiring-harnesses.svg %}

@@ -12,4 +12,4 @@ title: Brake master cylinder and power brake (no antilock brake)
   }
 </style>
 
-{% include 4340.svg %}
+{% include brake-master-cylinder-and-power-brake-no-antilock-brake.svg %}

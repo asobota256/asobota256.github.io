@@ -12,4 +12,4 @@ title: Rear drive shaft
   }
 </style>
 
-{% include 2550.svg %}
+{% include rear-drive-shaft.svg %}

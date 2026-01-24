@@ -12,4 +12,4 @@ title: Manual transmission clutch release and master cylinders
   }
 </style>
 
-{% include 4140.svg %}
+{% include manual-transmission-clutch-release-and-master-cylinders.svg %}

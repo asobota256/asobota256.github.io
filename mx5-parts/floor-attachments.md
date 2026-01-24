@@ -12,4 +12,4 @@ title: Floor attachments
   }
 </style>
 
-{% include 5390.svg %}
+{% include floor-attachments.svg %}

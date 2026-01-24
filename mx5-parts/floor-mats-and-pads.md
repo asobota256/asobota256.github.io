@@ -12,4 +12,4 @@ title: Floor mats and pads
   }
 </style>
 
-{% include 6860.svg %}
+{% include floor-mats-and-pads.svg %}

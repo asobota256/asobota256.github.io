@@ -12,4 +12,4 @@ title: Front doors
   }
 </style>
 
-{% include 5800.svg %}
+{% include front-doors.svg %}

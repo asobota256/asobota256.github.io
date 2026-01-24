@@ -12,4 +12,4 @@ title: Manual transmission gears
   }
 </style>
 
-{% include 1710.svg %}
+{% include manual-transmission-gears.svg %}

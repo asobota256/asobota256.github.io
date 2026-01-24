@@ -12,4 +12,4 @@ title: Key sets
   }
 </style>
 
-{% include 0900.svg %}
+{% include key-sets.svg %}

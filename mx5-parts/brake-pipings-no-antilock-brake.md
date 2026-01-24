@@ -12,4 +12,4 @@ title: Brake pipings (no antilock brake)
   }
 </style>
 
-{% include 4360.svg %}
+{% include brake-pipings-no-antilock-brake.svg %}

@@ -12,4 +12,4 @@ title: Piston, crankshaft and flywheel
   }
 </style>
 
-{% include 1100.svg %}
+{% include piston-crankshaft-and-flywheel.svg %}

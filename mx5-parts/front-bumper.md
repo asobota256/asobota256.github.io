@@ -12,4 +12,4 @@ title: Front bumper
   }
 </style>
 
-{% include 5000.svg %}
+{% include front-bumper.svg %}

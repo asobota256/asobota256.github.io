@@ -12,4 +12,4 @@ title: Meter hood
   }
 </style>
 
-{% include 5520.svg %}
+{% include meter-hood.svg %}

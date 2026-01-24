@@ -12,4 +12,4 @@ title: Fuel pipings
   }
 </style>
 
-{% include 4500.svg %}
+{% include fuel-pipings.svg %}

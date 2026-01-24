@@ -12,4 +12,4 @@ title: Inlet manifold
   }
 </style>
 
-{% include 1300.svg %}
+{% include inlet-manifold.svg %}

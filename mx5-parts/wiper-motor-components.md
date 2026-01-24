@@ -12,4 +12,4 @@ title: Wiper motor components
   }
 </style>
 
-{% include 6740.svg %}
+{% include wiper-motor-components.svg %}

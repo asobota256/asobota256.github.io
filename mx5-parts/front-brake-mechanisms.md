@@ -12,6 +12,6 @@ title: Front brake mechanisms
   }
 </style>
 
-{% include 3310-1.svg %}
+{% include front-brake-mechanisms-no-antilock-brake.svg %}
 
-{% include 3310-2.svg %}
+{% include front-brake-mechanisms-antilock-brake.svg %}

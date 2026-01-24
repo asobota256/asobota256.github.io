@@ -12,4 +12,4 @@ title: Manual transmission clutch and brake pedals
   }
 </style>
 
-{% include 4300.svg %}
+{% include manual-transmission-clutch-and-brake-pedals.svg %}

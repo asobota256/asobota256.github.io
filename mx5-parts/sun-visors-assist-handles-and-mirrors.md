@@ -12,4 +12,4 @@ title: Sun visors, assist handles and mirrors
   }
 </style>
 
-{% include 6900.svg %}
+{% include sun-visors-assist-handles-and-mirrors.svg %}

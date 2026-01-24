@@ -12,4 +12,4 @@ title: Engine switches and relays
   }
 </style>
 
-{% include 6600.svg %}
+{% include engine-switches-and-relays.svg %}

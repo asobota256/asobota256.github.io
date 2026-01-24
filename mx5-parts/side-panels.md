@@ -12,4 +12,4 @@ title: Side panels
   }
 </style>
 
-{% include 5340.svg %}
+{% include side-panels.svg %}

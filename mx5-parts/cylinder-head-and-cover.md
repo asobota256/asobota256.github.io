@@ -12,4 +12,4 @@ title: Cylinder head and cover
   }
 </style>
 
-{% include 1010.svg %}
+{% include cylinder-head-and-cover.svg %}

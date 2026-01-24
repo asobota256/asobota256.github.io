@@ -12,4 +12,4 @@ title: Bracket, pulley and belt
   }
 </style>
 
-{% include 1580.svg %}
+{% include bracket-pulley-and-belt.svg %}

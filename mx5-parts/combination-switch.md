@@ -12,5 +12,6 @@ title: Combination switch
   }
 </style>
 
-{% include 6611-1.svg %}
-{% include 6611-2.svg %}
+{% include combination-switch-no-air-bag.svg %}
+
+{% include combination-switch-air-bag.svg %}

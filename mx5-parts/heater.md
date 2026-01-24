@@ -12,4 +12,4 @@ title: Heater
   }
 </style>
 
-{% include 6100.svg %}
+{% include heater.svg %}

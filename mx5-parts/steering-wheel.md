@@ -12,8 +12,8 @@ title: Steering wheel
   }
 </style>
 
-{% include 3200-1.svg %}
+{% include steering-wheel-1.svg %}
 
-{% include 3200-2.svg %}
+{% include steering-wheel-2.svg %}
 
-{% include 3200-3.svg %}
+{% include steering-wheel-3.svg %}

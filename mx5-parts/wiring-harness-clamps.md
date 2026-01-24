@@ -12,5 +12,6 @@ title: Wiring harness clamps
   }
 </style>
 
-{% include 6704-1.svg %}
-{% include 6704-2.svg %}
+{% include wiring-harness-clamps-1.svg %}
+
+{% include wiring-harness-clamps-2.svg %}

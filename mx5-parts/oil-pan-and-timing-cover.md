@@ -12,4 +12,4 @@ title: Oil pan and timing cover
   }
 </style>
 
-{% include 1040.svg %}
+{% include oil-pan-and-timing-cover.svg %}

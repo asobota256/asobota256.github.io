@@ -12,4 +12,4 @@ title: Engine and transmission wiring harnesses
   }
 </style>
 
-{% include 6701.svg %}
+{% include engine-and-transmission-wiring-harnesses.svg %}

@@ -12,4 +12,4 @@ title: Throttle body
   }
 </style>
 
-{% include 1364.svg %}
+{% include throttle-body.svg %}

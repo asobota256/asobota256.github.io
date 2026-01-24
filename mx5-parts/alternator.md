@@ -12,4 +12,4 @@ title: Alternator
   }
 </style>
 
-{% include 1830.svg %}
+{% include alternator.svg %}

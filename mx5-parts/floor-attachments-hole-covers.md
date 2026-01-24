@@ -12,4 +12,4 @@ title: Floor attachments (hole covers)
   }
 </style>
 
-{% include 5380.svg %}
+{% include floor-attachments-hole-covers.svg %}

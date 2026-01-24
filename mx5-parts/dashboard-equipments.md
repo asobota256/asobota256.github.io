@@ -12,4 +12,4 @@ title: Dashboard equipments
   }
 </style>
 
-{% include 5500.svg %}
+{% include dashboard-equipments.svg %}

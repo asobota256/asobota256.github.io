@@ -12,4 +12,4 @@ title: Floor panels
   }
 </style>
 
-{% include 5370.svg %}
+{% include floor-panels.svg %}

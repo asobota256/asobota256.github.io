@@ -12,4 +12,4 @@ title: Rear stabilizer
   }
 </style>
 
-{% include 2810.svg %}
+{% include rear-stabilizer.svg %}

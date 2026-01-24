@@ -12,5 +12,6 @@ title: Head lamps
   }
 </style>
 
-{% include 5100-1.svg %}
-{% include 5100-2.svg %}
+{% include head-lamps-no-head-lamp-leveling.svg %}
+
+{% include head-lamps-head-lamp-leveling.svg %}

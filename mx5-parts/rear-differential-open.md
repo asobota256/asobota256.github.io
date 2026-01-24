@@ -12,4 +12,4 @@ title: Rear differential (open)
   }
 </style>
 
-{% include 2710.svg %}
+{% include rear-differential-open.svg %}

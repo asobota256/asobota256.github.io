@@ -12,4 +12,4 @@ title: Front door mechanisms
   }
 </style>
 
-{% include 5830.svg %}
+{% include front-door-mechanisms.svg %}

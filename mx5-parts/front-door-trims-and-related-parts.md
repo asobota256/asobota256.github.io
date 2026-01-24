@@ -12,4 +12,4 @@ title: Front door trims and related parts
   }
 </style>
 
-{% include 5840.svg %}
+{% include front-door-trims-and-related-parts.svg %}

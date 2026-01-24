@@ -12,4 +12,4 @@ title: Seat belts
   }
 </style>
 
-{% include 5790.svg %}
+{% include seat-belts.svg %}

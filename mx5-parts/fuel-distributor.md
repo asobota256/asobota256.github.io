@@ -12,4 +12,4 @@ title: Fuel distributor
   }
 </style>
 
-{% include 1325.svg %}
+{% include fuel-distributor.svg %}

@@ -12,4 +12,4 @@ title: Rear bumper
   }
 </style>
 
-{% include 5010.svg %}
+{% include rear-bumper.svg %}

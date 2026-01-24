@@ -12,4 +12,4 @@ title: Exhaust system
   }
 </style>
 
-{% include 4000.svg %}
+{% include exhaust-system.svg %}

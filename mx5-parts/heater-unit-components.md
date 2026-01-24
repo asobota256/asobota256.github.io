@@ -12,4 +12,4 @@ title: Heater unit components
   }
 </style>
 
-{% include 6110.svg %}
+{% include heater-unit-components.svg %}

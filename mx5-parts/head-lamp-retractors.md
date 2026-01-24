@@ -12,4 +12,4 @@ title: Head lamp retractors
   }
 </style>
 
-{% include 5103.svg %}
+{% include head-lamp-retractors.svg %}

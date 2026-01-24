@@ -12,4 +12,4 @@ title: Cooling system
   }
 </style>
 
-{% include 1500.svg %}
+{% include cooling-system.svg %}

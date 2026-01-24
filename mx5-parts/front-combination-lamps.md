@@ -12,5 +12,6 @@ title: Front combination lamps
   }
 </style>
 
-{% include 5105-1.svg %}
-{% include 5105-2.svg %}
+{% include front-combination-lamps-1.svg %}
+
+{% include front-combination-lamps-2.svg %}

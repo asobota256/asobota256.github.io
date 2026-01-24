@@ -12,4 +12,4 @@ title: Emission control system (inlet side)
   }
 </style>
 
-{% include 1370.svg %}
+{% include emission-control-system-inlet-side.svg %}

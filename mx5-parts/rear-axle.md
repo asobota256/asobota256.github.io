@@ -12,4 +12,4 @@ title: Rear axle
   }
 </style>
 
-{% include 2600.svg %}
+{% include rear-axle.svg %}

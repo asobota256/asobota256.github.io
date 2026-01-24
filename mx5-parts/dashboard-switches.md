@@ -12,4 +12,4 @@ title: Dashboard switches
   }
 </style>
 
-{% include 6610.svg %}
+{% include dashboard-switches.svg %}

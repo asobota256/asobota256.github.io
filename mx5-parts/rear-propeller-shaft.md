@@ -12,4 +12,4 @@ title: Rear propeller shaft
   }
 </style>
 
-{% include 2505.svg %}
+{% include rear-propeller-shaft.svg %}

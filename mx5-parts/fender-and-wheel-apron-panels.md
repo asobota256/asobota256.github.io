@@ -12,4 +12,4 @@ title: Fender and wheel apron panels
   }
 </style>
 
-{% include 5320.svg %}
+{% include fender-and-wheel-apron-panels.svg %}

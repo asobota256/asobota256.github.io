@@ -12,4 +12,4 @@ title: Parking brake system
   }
 </style>
 
-{% include 4400.svg %}
+{% include parking-brake-system.svg %}

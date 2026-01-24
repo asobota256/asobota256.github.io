@@ -12,4 +12,4 @@ title: Quarter window and trims
   }
 </style>
 
-{% include 7250.svg %}
+{% include quarter-window-and-trims.svg %}

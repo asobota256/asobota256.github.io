@@ -12,4 +12,4 @@ title: Oil pump and filter
   }
 </style>
 
-{% include 1400.svg %}
+{% include oil-pump-and-filter.svg %}

@@ -12,4 +12,4 @@ title: Rear brake mechanisms
   }
 </style>
 
-{% include 2610.svg %}
+{% include rear-brake-mechanisms.svg %}

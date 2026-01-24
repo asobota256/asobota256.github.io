@@ -12,4 +12,4 @@ title: Dashboard wiring harnesses
   }
 </style>
 
-{% include 6702.svg %}
+{% include dashboard-wiring-harnesses.svg %}

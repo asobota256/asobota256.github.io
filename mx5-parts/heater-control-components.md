@@ -12,4 +12,4 @@ title: Heater control components
   }
 </style>
 
-{% include 6115.svg %}
+{% include heater-control-components.svg %}

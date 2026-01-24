@@ -12,4 +12,4 @@ title: Steering column and shafts
   }
 </style>
 
-{% include 3210.svg %}
+{% include steering-column-and-shafts.svg %}

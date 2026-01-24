@@ -12,5 +12,6 @@ title: Rear combination lamps
   }
 </style>
 
-{% include 5110-1.svg %}
-{% include 5110-2.svg %}
+{% include rear-combination-lamps.svg %}
+
+{% include high-mount-stop-lamp.svg %}
