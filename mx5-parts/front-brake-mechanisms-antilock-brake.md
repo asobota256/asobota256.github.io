@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Front brake mechanisms
+title: Front brake mechanisms (antilock brake)
 ---
 
 <style>
@@ -11,7 +11,5 @@ title: Front brake mechanisms
     height: auto;
   }
 </style>
-
-{% include front-brake-mechanisms-no-antilock-brake.svg %}
 
 {% include front-brake-mechanisms-antilock-brake.svg %}

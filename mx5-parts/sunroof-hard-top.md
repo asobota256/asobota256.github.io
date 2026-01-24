@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sunroof
+title: Sunroof (hard top)
 ---
 
 <style>
@@ -11,7 +11,5 @@ title: Sunroof
     height: auto;
   }
 </style>
-
-{% include sunroof-soft-top.svg %}
 
 {% include sunroof-hard-top.svg %}

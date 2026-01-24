@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Front combination lamps
+title: Head lamps (no head lamp leveling)
 ---
 
 <style>
@@ -12,4 +12,4 @@ title: Front combination lamps
   }
 </style>
 
-{% include front-combination-lamps.svg %}
+{% include head-lamps-no-head-lamp-leveling.svg %}

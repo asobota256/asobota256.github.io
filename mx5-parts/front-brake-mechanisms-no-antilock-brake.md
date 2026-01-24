@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Front combination lamps
+title: Front brake mechanisms (no antilock brake)
 ---
 
 <style>
@@ -12,4 +12,4 @@ title: Front combination lamps
   }
 </style>
 
-{% include front-combination-lamps.svg %}
+{% include front-brake-mechanisms-no-antilock-brake.svg %}

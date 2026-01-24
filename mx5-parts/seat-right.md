@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seats
+title: Seat (right)
 ---
 
 <style>
@@ -13,5 +13,3 @@ title: Seats
 </style>
 
 {% include seat-right.svg %}
-
-{% include seat-left.svg %}

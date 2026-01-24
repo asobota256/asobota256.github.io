@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Combination switch
+title: Head lamp cleaner (no antilock brake)
 ---
 
 <style>
@@ -12,6 +12,4 @@ title: Combination switch
   }
 </style>
 
-{% include combination-switch-no-air-bag.svg %}
-
-{% include combination-switch-air-bag.svg %}
+{% include head-lamp-cleaner-no-antilock-brake.svg %}

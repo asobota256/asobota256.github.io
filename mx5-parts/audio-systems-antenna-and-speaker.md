@@ -12,6 +12,6 @@ title: Audio systems (antenna and speaker)
   }
 </style>
 
-{% include audio-systems-antenna-and-speaker-manual-antenna.svg %}
+{% include audio-systems-antenna-and-speaker.svg %}
 
-{% include audio-systems-antenna-and-speaker-electrical-antenna.svg %}
+{% include audio-systems-electrical-antenna.svg %}

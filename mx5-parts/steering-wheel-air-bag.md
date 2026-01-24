@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Head lamps
+title: Steering wheel (air bag)
 ---
 
 <style>
@@ -12,6 +12,4 @@ title: Head lamps
   }
 </style>
 
-{% include head-lamps-no-head-lamp-leveling.svg %}
-
-{% include head-lamps-head-lamp-leveling.svg %}
+{% include steering-wheel-air-bag.svg %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Head lamp cleaner
+title: Head lamp cleaner (antilock brake)
 ---
 
 <style>
@@ -11,7 +11,5 @@ title: Head lamp cleaner
     height: auto;
   }
 </style>
-
-{% include head-lamp-cleaner-no-antilock-brake.svg %}
 
 {% include head-lamp-cleaner-antilock-brake.svg %}

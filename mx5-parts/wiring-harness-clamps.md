@@ -12,6 +12,6 @@ title: Wiring harness clamps
   }
 </style>
 
-{% include wiring-harness-clamps-1.svg %}
+{% include wiring-harness-clamps-locations.svg %}
 
-{% include wiring-harness-clamps-2.svg %}
+{% include wiring-harness-clamps-parts.svg %}
