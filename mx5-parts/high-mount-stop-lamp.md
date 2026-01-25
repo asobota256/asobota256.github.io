@@ -6,9 +6,10 @@ title: High mount stop lamp
 <style>
   svg{
     display: block;
-    margin: 0 auto;
+    margin: auto;
     width: 100%;
     height: auto;
+    max-height: 100svh;
   }
 </style>
 
