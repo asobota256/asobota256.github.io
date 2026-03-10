@@ -1,5 +1,8 @@
 ---
 layout: home
+title: Home
 ---
 
-Tutaj znajdzie się zawartość strony startowej.
+[Mazda MX-5 parts](mx5-parts/)
+
+[Mazda MX-5 parts (old)](mx5-parts/parts-table)
