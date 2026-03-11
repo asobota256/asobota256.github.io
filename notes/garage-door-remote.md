@@ -49,7 +49,8 @@ Requirements:
 
 IC parameters:
 
-    U_FB = 1.24 V
+    U_FB = 1.24 V  (typ)
+    I_FB = 10.0 nA (max)
 
 TI recommends to set the feedback divider current to 100 times the FB pin current:
 
@@ -91,7 +92,8 @@ Requirements:
 
 IC parameters:
 
-    U_FB = 1.24 V
+    U_FB = 1.24 V  (typ)
+    I_FB = 10.0 nA (max)
 
 TI recommends to set the feedback divider current to 100 times the FB pin current:
 
@@ -134,9 +136,11 @@ Requirements:
 
 IC parameters:
 
-    U_T+ = 2.71 V
-    U_T- = 1.84 V
-    U_T- = 1.89 V (DPW package)
+    U_T+ = 2.71 V (typ)
+    U_T- = 1.84 V (typ)
+    U_T- = 1.89 V (typ, only for DPW package)
+
+Signal period formula:
 
     t_H = ln((U_DD - U_T-) / (U_DD - U_T+)) x R x C =
         = ln((5.00 - 1.84) / (5.00 - 2.71)) x R x C =
