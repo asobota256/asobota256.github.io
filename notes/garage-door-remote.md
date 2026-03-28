@@ -21,19 +21,19 @@ Both devices are identical except for the input leakage current.
 Both devices are identical except for the maximum output current.
 
 ### Schmitt-trigger inverter
-- SN74LVC1G14DSF (6-pin SON)
-- SN74LVC1G14DPW (5-pin X2SON)
+- Texas Instruments SN74LVC1G14DSF (6-pin SON)
+- Texas Instruments SN74LVC1G14DPW (5-pin X2SON)
 
 ### Resistors
-- CRCW0402120KFKED (0402,  120 kOhm, 1%, 100ppm/C)
-- CRCW0402150KFKED (0402,  150 kOhm, 1%, 100ppm/C)
-- CRCW0402360KFKED (0402,  360 kOhm, 1%, 100ppm/C)
-- CRCW04021M00FKED (0402, 1.00 MOhm, 1%, 100ppm/C)
-- CRCW04021M30FKED (0402, 1.30 MOhm, 1%, 100ppm/C)
+- Vishay CRCW0402120KFKED (0402,  120 kOhm, 1%, 100ppm/C)
+- Vishay CRCW0402150KFKED (0402,  150 kOhm, 1%, 100ppm/C)
+- Vishay CRCW0402360KFKED (0402,  360 kOhm, 1%, 100ppm/C)
+- Vishay CRCW04021M00FKED (0402, 1.00 MOhm, 1%, 100ppm/C)
+- Vishay CRCW04021M30FKED (0402, 1.30 MOhm, 1%, 100ppm/C)
 
 ### Capacitors
-- GRM155R61E105KE11 (0402, 1.00 uF, 10%, X5R, 25V)
-- GRM155R61E225KE11 (0402, 2.20 uF, 10%, X5R, 25V)
+- Murata GRM155R61E105KE11 (0402, 1.00 uF, 10%, X5R, 25V)
+- Murata GRM155R61E225KE11 (0402, 2.20 uF, 10%, X5R, 25V)
 
 ## Calculations
 
@@ -150,7 +150,7 @@ Signal period formula:
         = ln(2.71 / 1.84) x R x C =
         = 0.387 x R x C
 
-    T = t_H + t_L =
+    T = t_H           + t_L           =
       = 0.322 x R x C + 0.387 x R x C =
       = 0.709 x R x C
 
