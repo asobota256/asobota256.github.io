@@ -6,161 +6,20 @@ title: Garage door remote
 ## Part numbers
 
 ### Code hopping encoder
-- Microchip HCS200/SN
+- Microchip HCS200/SN (8-pin SOIC)
 
 ### SPDT (2:1) switch
-- Texas Instruments TMUX6219RQXR (slightly lower leakage current)
-- Texas Instruments TMUX7219RQXR
-
-Both devices are identical except for the input leakage current.
+- Texas Instruments TMUX7219DGK (8-pin VSSOP) <- preferred
+- Texas Instruments TMUX6219DGK (8-pin VSSOP)
 
 ### Linear regulator
-- Texas Instruments TPS7A25 (0.3 A)
-- Texas Instruments TPS7A26 (0.5 A)
 
-Both devices are identical except for the maximum output current.
-
-### Schmitt-trigger inverter
-- Texas Instruments SN74LVC1G14DSF (6-pin SON)
-- Texas Instruments SN74LVC1G14DPW (5-pin X2SON)
+### Timer
+- Texas Instruments TLC555 (8-pin SOIC)
+- Texas Instruments LMC555 (8-pin SOIC)
 
 ### Resistors
-- Vishay CRCW0402120KFKED (0402,  120 kOhm, 1%, 100ppm/C)
-- Vishay CRCW0402150KFKED (0402,  150 kOhm, 1%, 100ppm/C)
-- Vishay CRCW0402360KFKED (0402,  360 kOhm, 1%, 100ppm/C)
-- Vishay CRCW04021M00FKED (0402, 1.00 MOhm, 1%, 100ppm/C)
-- Vishay CRCW04021M30FKED (0402, 1.30 MOhm, 1%, 100ppm/C)
 
 ### Capacitors
-- Murata GRM155R61E105KE11 (0402, 1.00 uF, 10%, X5R, 25V)
-- Murata GRM155R61E225KE11 (0402, 2.20 uF, 10%, X5R, 25V)
 
 ## Calculations
-
-### 12 V linear regulator
-
-Sources:
-- [TPS7A25 datasheet](https://www.ti.com/lit/ds/symlink/tps7a25.pdf)
-
-Requirements:
-
-    U_IN  = 11.80 - 14.80 V
-    U_OUT = 12.00 V
-
-IC parameters:
-
-    U_FB = 1.24 V  (typ)
-    I_FB = 10.0 nA (max)
-
-TI recommends to set the feedback divider current to 100 times the FB pin current:
-
-    R_T + R_B <= U_OUT / (I_FB x 100) =
-               = 12.00 / (10n  x 100) =
-               = 12.00 MOhm
-
-Using the formula for the feedback divider ratio:
-
-    R_T / R_B = (U_OUT - U_FB) / U_FB =
-              = (12.00 - 1.24) / 1.24 =
-              = 8.68 / 1
-
-So the resistances should be:
-
-    R_T <= 10.76 MOhm
-    R_B <=  1.24 MOhm
-
-Aiming for the feedback divider current 1000 times the FB pin current (resistor values 10 times
-smaller than the calculated limits), and using E24 (5%) series values:
-
-    R_T = 1.30 MOhm
-    R_B =  150 kOhm
-
-TI recommends using X7R ceramic capacitors with the following capacitances:
-
-    C_IN  = 1.00 uF
-    C_OUT = 2.20 uF
-
-### 5 V linear regulator
-
-Sources:
-- [TPS7A25 datasheet](https://www.ti.com/lit/ds/symlink/tps7a25.pdf)
-
-Requirements:
-
-    U_IN  = 11.80 - 14.80 V
-    U_OUT =  5.00 V
-
-IC parameters:
-
-    U_FB = 1.24 V  (typ)
-    I_FB = 10.0 nA (max)
-
-TI recommends to set the feedback divider current to 100 times the FB pin current:
-
-    R_T + R_B <= U_OUT / (I_FB x 100) =
-               = 5.00  / (10n  x 100) =
-               = 5.00 MOhm
-
-Using the formula for the feedback divider ratio:
-
-    R_T / R_B = (U_OUT - U_FB) / U_FB =
-              = (5.00  - 1.24) / 1.24 =
-              = 3.03 / 1
-
-So the resistances should be:
-
-    R_T <= 3.76 MOhm
-    R_B <= 1.24 MOhm
-
-Aiming for the feedback divider current 1000 times the FB pin current (resistor values 10 times
-smaller than the calculated limits), and using E24 (5%) series values:
-
-    R_T = 360 kOhm
-    R_B = 120 kOhm
-
-TI recommends using X7R ceramic capacitors with the following capacitances:
-
-    C_IN  = 1.00 uF
-    C_OUT = 2.20 uF
-
-### Schmitt-trigger relaxation oscillator
-
-Sources:
-- [Exactly how Schmitt-trigger oscillators work](https://www.allaboutcircuits.com/technical-articles/exactly-how-schmitt-trigger-oscillators-work/)
-
-Requirements:
-
-    U_DD = 5.00 V
-    U_SS = 0.00 V
-    T    = 0.50 - 1.00 s
-
-IC parameters:
-
-    U_T+ = 2.71 V (typ)
-    U_T- = 1.84 V (typ)
-    U_T- = 1.89 V (typ, only for DPW package)
-
-Signal period formula:
-
-    t_H = ln((U_DD - U_T-) / (U_DD - U_T+)) x R x C =
-        = ln((5.00 - 1.84) / (5.00 - 2.71)) x R x C =
-        = 0.322 x R x C
-
-    t_L = ln(U_T+ / U_T-) x R x C =
-        = ln(2.71 / 1.84) x R x C =
-        = 0.387 x R x C
-
-    T = t_H           + t_L           =
-      = 0.322 x R x C + 0.387 x R x C =
-      = 0.709 x R x C
-
-Using:
-
-    R = 1.00 MOhm
-    C = 1.00 uF
-
-we get a period within the required range:
-
-    T = 0.709 x R  x C  =
-      = 0.709 x 1M x 1u =
-      = 0.709 s
