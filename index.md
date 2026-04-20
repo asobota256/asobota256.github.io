@@ -7,6 +7,4 @@ title: Home
 
 [Mazda MX-5 logs](mx5-logs/)
 
-[Mazda MX-5 parts (old)](mx5-parts/parts-table)
-
 [Notes](notes/)
